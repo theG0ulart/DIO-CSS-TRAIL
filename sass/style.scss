@@ -1,0 +1,62 @@
+/* RESET CSS */
+
+* { 
+    background-color: aqua;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+/* FONTES */
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;900&display=swap');
+//font-family: 'Raleway', sans-serif;
+
+header {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    padding-top: 60px ;
+    border-bottom: 1px solid blue;
+
+    .banner-content{ 
+        color: white;
+        width: 600px;
+        margin: auto;
+        text-align: center;
+    }
+}
+
+main {
+    
+
+
+    .knowhow {
+        width: 800px;
+        text-align: center;
+    }
+
+    .transformWorld {
+        height: 560px;
+        background-size: cover;
+        background-attachment: fixed;
+        border-top: 1px solid blue;
+        padding: 200px
+    }
+
+    .upgradeCareer{
+        text-align: center;
+        width: 800px;
+    }
+
+    section {
+        margin: 100px auto;
+    }
+}
+
+footer {
+    padding: 60px 0;
+    text-align: center;
+    //background-image: ;
+    border-top: 1px solid lightblue
+}
