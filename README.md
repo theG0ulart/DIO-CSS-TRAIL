@@ -8,6 +8,6 @@ E para fechar com a chave de ouro, adicionei o projeto lá no meu site e, com is
 
 Caso queiram, fica abaixo o link do meu Github e Web-Portifólio para apreciação!! 😎 👩‍💻
 
-https://lnkd.in/dUUTH_ku
+# https://lnkd.in/dUUTH_ku
 
-https://lnkd.in/dmVUbsE5
+# https://lnkd.in/dmVUbsE5
