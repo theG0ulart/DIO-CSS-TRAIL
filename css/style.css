@@ -1,6 +1,7 @@
 @import url("reset.css");
 body {
   background-color: black;
+  font-weight: 500;
 }
 body .banner {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(49, 168, 221, 0.2), rgba(0, 0, 0, 0.6)), url(../img/bg-img.png);
@@ -86,6 +87,10 @@ body main #knowhow .modules-list .module {
   border-radius: 100px;
   box-shadow: inset -5px 6px 8px rgba(0, 0, 0, 0.7);
 }
+body main #knowhow .modules-list .module span {
+  color: #1472b7;
+  font-weight: 600;
+}
 body main #upgradeCareer {
   text-align: center;
   width: 800px;
@@ -121,6 +126,13 @@ body footer {
   text-align: center;
   background-image: linear-gradient(rgba(50, 168, 219, 0), rgba(50, 168, 219, 0.2));
   border-top: 1px solid rgba(51, 168, 219, 0.5019607843);
+}
+body footer p {
+  color: white;
+}
+body footer a {
+  text-decoration: none;
+  color: lightblue;
 }
 
 /*# sourceMappingURL=style.css.map */
